@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @prabhasgamini
-- 👀 I’m interested in creating something better than all think 
-- 🌱 I’m currently learning linux commands , python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me prabhas.gamini@gmail.com
+# 👋 Hi, I'm Prabhas Gamini!
 
-<!---
-prabhasgamini/prabhasgamini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm a passionate CSE (AI & ML) student interested in Artificial Intelligence, Quantum Computing, Space Tech, and Entrepreneurship.
+
+---
+
+## 🔧 Tech Stack & Skills
+- 💡 **Languages**: Python, C++, JavaScript
+- 📊 **AI/ML**: Scikit-learn, TensorFlow, NumPy, Pandas
+- ⚛️ **Quantum Computing**: Qiskit, Quantum Circuits, Quantum Gate Theory
+- 🌐 **Web**: HTML5, CSS3, Flask
+- 🧪 **Tools**: Git, VS Code, Jupyter Notebooks
+
+---
+
+## 🎯 Current Focus
+- Building AI-powered applications
+- Exploring quantum logic gates and circuits
+- Developing full-stack ML projects
+- Leading community-based student initiatives
+
+---
+
+## 📈 Projects
+- 🎓 [College Subject Chatbot](#) – A full-stack AI chatbot for academic Q&A
+- ⚛️ [Quantum Gate Simulator](#) – Simulates gate operations using Qiskit
+- 📚 [ML Regression Toolkit](#) – Implements core regression models from scratch
+
+---
+
+## 🏅 Achievements
+- 🧠 Completed internship on Generative AI & Large Language Models
+- 🎤 Vice President of [Your Club Name] (2024–25)
+- 🌱 Leading New Year community event for social impact
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabhasgamini)
+- 💻 [GitHub](https://github.com/prabhasgamini)
+- 📧 prabhas.gamini@email.com
+
+---
+
+_“Turning ideas into innovation through AI & quantum computation.”_
+
