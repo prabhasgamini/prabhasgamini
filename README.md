@@ -36,7 +36,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/prabhasgamini)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabhas-gamini-85a93a2b7/)
 - 💻 [GitHub](https://github.com/prabhasgamini)
 - 📧 prabhas.gamini@email.com
 
